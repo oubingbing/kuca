@@ -52,3 +52,53 @@ info: 测试日志信息，这是警告级别，并且实时写入
 info: 测试日志信息，这是警告级别，并且实时写入
 [ 2016-11-26T21:41:38+08:00 ] 223.74.85.42 /index.php/home/main/index.html
 info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-26T21:55:23+08:00 ] 14.152.69.85 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-26T22:17:34+08:00 ] 223.74.85.15 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-26T22:18:21+08:00 ] 223.74.85.15 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-26T22:18:45+08:00 ] 223.74.85.15 /index.php/home/buy/add_src.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:18:48+08:00 ] 223.74.85.15 /index.php/home/buy/add_src.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:18:49+08:00 ] 223.74.85.15 /index.php/home/buy/add_src.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:18:53+08:00 ] 223.74.85.15 /index.php/home/buy/add_src.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:18:59+08:00 ] 223.74.85.15 /index.php/home/buy/clear.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:06+08:00 ] 223.74.85.15 /index.php/home/buy/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:07+08:00 ] 223.74.85.15 /index.php/home/buy/add_src.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:17+08:00 ] 223.74.85.15 /index.php/home/buy/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:19+08:00 ] 223.74.85.15 /index.php/home/buy/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:20+08:00 ] 117.136.41.105 /index.php/home/main/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:23+08:00 ] 223.74.85.15 /index.php/home/buy/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:27+08:00 ] 223.74.85.42 /index.php/home/buy/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:28+08:00 ] 117.136.41.105 /index.php/home/main/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:19:37+08:00 ] 223.74.85.15 /index.php/home/main/index.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2016-11-26T22:22:21+08:00 ] 120.239.147.158 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
