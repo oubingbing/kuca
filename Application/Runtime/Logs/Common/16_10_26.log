@@ -1,0 +1,528 @@
+[ 2016-10-26T00:09:44+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477411725&e=md5&_s_=5c173514aa551739b7e592d824cb602c&pid=642a656c40601971&guid=09e38ddf46d4a2ece74f5169cd1da53a&mac=73:b7:50:f1:43:67&imei=162344723206208&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=af3f540682d4a740a198732d4a926101&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=2555&oip=4987734420&sid=1477411725432e7ff8f3f&autoplay=&dns=192.168.3.1&intrIP=192.168.3.89&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T00:15:12+08:00 ] 120.239.147.208 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T00:17:53+08:00 ] 120.239.147.208 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T01:05:45+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T01:05:45+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T01:05:45+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T01:07:27+08:00 ] 220.181.51.76 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-10-26T02:46:43+08:00 ] 89.248.172.16 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-10-26T02:46:44+08:00 ] 89.248.172.16 /sitemap.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+ERR: 无法加载模块:Sitemap
+
+[ 2016-10-26T05:49:28+08:00 ] 198.52.119.97 /zz/combo?/os/mit/media/m/content_index/preview-default-min-e0e1d50.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+ERR: 无法加载模块:Zz
+
+[ 2016-10-26T07:01:30+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436431&e=md5&_s_=56cf47b51e7061af4abcc52119abda8d&pid=642a656c40601971&guid=6d4e13de850da8d6f204ff9c147b6262&mac=81:01:81:01:81:01&imei=431323776000789&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=818af21f9cc2cb499ee4f8f3e719e35f&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=5948&oip=8259107082&sid=1477436431309010b5882&autoplay=&dns=192.168.3.1&intrIP=192.168.3.31&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:01:37+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436439&e=md5&_s_=064d7dee586b338c51a5e2a9b87ae624&pid=642a656c40601971&guid=58a38d036a3b794b1477084499f9b7ae&mac=b4:34:b5:b7:62:90&imei=538502418274481&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=b4d9d477dc8a1897a7e07dd485055b9e&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=5327&oip=2251173580&sid=1477436439968fc9a0fb0&autoplay=&dns=192.168.3.1&intrIP=192.168.3.89&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:03:32+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436553&e=md5&_s_=456b5a226d0ffc94f5146bee4ca52062&pid=642a656c40601971&guid=8d1b856cdc8af02cde907b27e3648181&mac=c5:0d:45:8d:c5:0d&imei=810826600223653&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=455dd1eff30e085e1f210cc5fbce5656&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=8274&oip=6259618388&sid=14774365532228d1e0b19&autoplay=&dns=192.168.3.1&intrIP=192.168.3.37&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:05:08+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436649&e=md5&_s_=519b3f00650877ff3d1adbc964abcae6&pid=642a656c40601971&guid=44a750f1ebb3dd50acfd0cded2ce5d1e&mac=bb:98:c2:47:e8:3a&imei=423184803494528&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=5e72a5eb855c3c69d8544c8bb5927da3&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=4431&oip=8104458219&sid=14774366499639633ef15&autoplay=&dns=192.168.3.1&intrIP=192.168.3.88&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:06:30+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436731&e=md5&_s_=f81b85402e2e402bf8c72b32d53f9fc7&pid=642a656c40601971&guid=30dbb0899daa43c2e1433b7b7dfef0d5&mac=78:b0:f8:30:78:b0&imei=433973070464249&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=f81e0c0db32e6cf512d4dc198458c5ab&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=9383&oip=5635454704&sid=147743673145930ce3736&autoplay=&dns=192.168.3.1&intrIP=192.168.3.94&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:08:14+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436835&e=md5&_s_=abe05618af294353d011674c716d30c2&pid=642a656c40601971&guid=11a0aaf6bfb121ee7c149fa18ee64576&mac=7d:fe:e0:ab:d9:fd&imei=262388833837125&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=352399f7349070815e2be0de130d6101&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=1585&oip=5211508662&sid=14774368357827dd3c431&autoplay=&dns=192.168.3.1&intrIP=192.168.3.20&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:08:27+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477436848&e=md5&_s_=6cd1dd54c7ff98165e3bfc8c7fbd51e8&pid=642a656c40601971&guid=a492089e367bacbe47b60cc5177cc206&mac=ec:24:6c:a4:ec:24&imei=580740401178479&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=6cc453115cfeb4e078479d632ed797dc&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=6464&oip=9661692395&sid=1477436848444a4849e5b&autoplay=&dns=192.168.3.1&intrIP=192.168.3.27&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:11:42+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437044&e=md5&_s_=a7179707b7ae92a66d6277b481a1b031&pid=642a656c40601971&guid=f97da73bc87fc96520349d50632f81bb&mac=55:d5:56:58:03:31&imei=450685097534861&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=5593feaf3add78b2c3ad02f05f4c15ac&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=6403&oip=6874381286&sid=14774370448899d5429d9&autoplay=&dns=192.168.3.1&intrIP=192.168.3.47&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:11:56+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437057&e=md5&_s_=a81c6b197f035f60f99152d486edefc5&pid=642a656c40601971&guid=e0dc9652ed8f5208d21c621d1eac50e4&mac=28:60:a8:e0:28:60&imei=987564132567119&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=a80ee2d604036a3a13adf3bb350625b9&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=1598&oip=8824479074&sid=1477437057998e0cf1d0f&autoplay=&dns=192.168.3.1&intrIP=192.168.3.91&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:14:13+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437194&e=md5&_s_=07939935e4ef0b248180ee41c4262347&pid=642a656c40601971&guid=96785feaf27ce4fd6eb78d5459708451&mac=5b:ad:c1:09:41:89&imei=341125306010172&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=c1508476ebce42dda8d2004f77b5674f&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=1686&oip=3677967180&sid=14774371946320911bfb0&autoplay=&dns=192.168.3.1&intrIP=192.168.3.97&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:16:06+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437307&e=md5&_s_=e338d26ee7118d1bf99f9aaf012f733a&pid=642a656c40601971&guid=359ee282f9e2b4dabd61b04be3be44b3&mac=92:12:93:94:4f:7d&imei=482802274223656&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=91c549f76b40631650ea25eadfcae8a4&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=2889&oip=1646415680&sid=1477437307823d9857430&autoplay=&dns=192.168.3.1&intrIP=192.168.3.95&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:18:44+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437465&e=md5&_s_=f81500ac5c2fef3f3c3aebac7e1604bd&pid=642a656c40601971&guid=770ac6515abcc8f819707abf026066c8&mac=3c:8e:a2:ea:22:6a&imei=140656706470507&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=a2e2fbee430e16d8529c0daa31a449b5&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=5545&oip=6073890291&sid=1477437465168eaa22627&autoplay=&dns=192.168.3.1&intrIP=192.168.3.17&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:20:32+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437573&e=md5&_s_=fabd18bda78be1db07fedb346a204efc&pid=642a656c40601971&guid=327e43e71507f572e07aeb6d02efaf1a&mac=6a:a2:ea:22:6a:a2&imei=543417970622645&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=eab0af6a3c8a0da5210b7c0b194a74e0&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=7541&oip=3326675155&sid=14774375733152260daa4&autoplay=&dns=192.168.3.1&intrIP=192.168.3.95&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:26:35+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437936&e=md5&_s_=a8f15dd52d62851e6569cf83af3f8166&pid=642a656c40601971&guid=2872b2481a6a8c5d2760ef05dfbd53a3&mac=a8:28:a8:29:99:19&imei=644522660346641&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=99e66a5f4761bdb2a98200410e72fd4e&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=6496&oip=3021272239&sid=14774379364191957c0b2&autoplay=&dns=192.168.3.1&intrIP=192.168.3.51&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:27:10+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477437971&e=md5&_s_=c092d7ac1511a463f27b9fa50a1c66f8&pid=642a656c40601971&guid=8705ba8f9ce710c0e9966fa744b197fe&mac=16:db:2d:41:89:c1&imei=942173274242123&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=09027a97144a43c1166c707b6f916bd7&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=1162&oip=9697943282&sid=147743797122541c2a5c0&autoplay=&dns=192.168.3.1&intrIP=192.168.3.55&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:27:58+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477438019&e=md5&_s_=6514a99f9b30c395592a6a681d0bf759&pid=642a656c40601971&guid=3a2efbb038ed818f392b78449ee04a5f&mac=8c:a0:e8:20:68:a1&imei=903991648255975&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=e9ac0875f30e141c7cd10d9cc41f4b65&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=7915&oip=3366630888&sid=1477438019924216d33ae&autoplay=&dns=192.168.3.1&intrIP=192.168.3.61&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:28:14+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477438035&e=md5&_s_=a83e2ad224a5a95a3c2d55aba7652fa1&pid=642a656c40601971&guid=2624e088324282121963e4be3bbf81bb&mac=eb:3d:51:99:d1:19&imei=882460583294397&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=510c15242a94e0f2538f77a95a046499&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=8001&oip=2872115585&sid=147743803584899cc4f5d&autoplay=&dns=192.168.3.1&intrIP=192.168.3.15&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:32:03+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477438264&e=md5&_s_=48f233ae7d4784545633e62541ede175&pid=642a656c40601971&guid=c87399116b4f8b82283a16a7716ba2b2&mac=80:c9:49:c9:49:81&imei=911174874295630&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=0118d1c5f4cab6bd46df789e677e8fa8&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=1427&oip=6819674560&sid=147743826477381993738&autoplay=&dns=192.168.3.1&intrIP=192.168.3.89&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:33:14+08:00 ] 203.208.60.138 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-10-26T07:34:03+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477438384&e=md5&_s_=dad3ff263aa0066fcc9938d2af5f013b&pid=642a656c40601971&guid=36ef0436efc66f456ab054d0cbad3210&mac=a6:27:28:e4:12:36&imei=723670423161847&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=7eba81c42b7bb943388ebdaa232b064b&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=9441&oip=8694305576&sid=1477438384310a67abc0e&autoplay=&dns=192.168.3.1&intrIP=192.168.3.28&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:40:00+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477438742&e=md5&_s_=d27e366ec29cf58eba94f81ed99fc840&pid=642a656c40601971&guid=1a3e61a74118f82594100847715e396f&mac=52:9a:d2:1a:52:9a&imei=329077635963114&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=d260cc2b589b0058d5a1a8e588b80e34&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=5640&oip=4763872933&sid=14774387428711a21f754&autoplay=&dns=192.168.3.1&intrIP=192.168.3.10&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T07:54:20+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477439601&e=md5&_s_=80dd506dd2c450570b85b4b08a69d6cb&pid=642a656c40601971&guid=c89e8ba7404064fee411c4e9122847da&mac=00:48:80:c8:00:48&imei=467431702618244&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=80c0e72b67c47c2125a2558729831caf&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=7038&oip=7583415689&sid=1477439601966c8801264&autoplay=&dns=192.168.3.1&intrIP=192.168.3.77&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T08:03:41+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477440162&e=md5&_s_=3ac5f15ab9a7744db5990309124cc07a&pid=642a656c40601971&guid=c9bab80fc7335d0591dfa21ba7962284&mac=8e:d0:f4:3c:74:bc&imei=501662859569267&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=f482edacb095abe5dbfb3506c5db0572&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=8793&oip=4431258862&sid=14774401623723c4317d5&autoplay=&dns=192.168.3.1&intrIP=192.168.3.23&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T08:11:46+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:11:49+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:12:06+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:12:07+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:13:13+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:13:16+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:13:19+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:17:52+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:21:24+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477441225&e=md5&_s_=5c4029e5e7a6461e85dbd0086c8bb02f&pid=642a656c40601971&guid=8674027b7a66eda3d040932096605b7a&mac=c2:e2:0a:e2:c1:ff&imei=777119621648269&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=130fd60ceaf6ca536484cdc7f1d05ab8&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=9050&oip=8266477322&sid=14774412253405bcf0145&autoplay=&dns=192.168.3.1&intrIP=192.168.3.20&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T08:35:06+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T08:45:28+08:00 ] 171.38.23.179 http://statis.api.3g.youku.com/openapi-wireless/statis/vv?_t_=1477442670&e=md5&_s_=5589c0af53a1c653397ac16c6205dd6c&pid=642a656c40601971&guid=b57dd784883f16a677cf4e462a01ff55&mac=1e:a7:d9:d4:b3:e1&imei=177571392836275&ver=5.5&operator=CMCC_46000&network=WIFI&sessionid=05874f78b40291db0633f56a6a12e167&play_types=net&play_codes=200&type=begin&os=Android&video_format=1&play_decoding=1&id=XMTYwOTYxOTY3Ng==&ev=1&ctype=20&token=5036&oip=6906099304&sid=14774426708944d477ab1&autoplay=&dns=192.168.3.1&intrIP=192.168.3.67&video_coding_format=0&is_phone_stream=0&switch_original=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+ERR: 无法加载模块:Openapi-wireless
+
+[ 2016-10-26T09:04:55+08:00 ] 157.55.39.155 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-10-26T09:05:01+08:00 ] 207.46.13.223 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-10-26T09:39:20+08:00 ] 117.136.79.199 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T10:59:17+08:00 ] 121.34.154.111 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T10:59:17+08:00 ] 121.34.154.111 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:06:54+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:06:54+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:06:54+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:41:37+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:41:47+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:42:09+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:42:10+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:42:28+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T11:42:29+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T12:31:18+08:00 ] 219.133.49.231 http://10.133.6.20/proxy.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:Proxy
+
+[ 2016-10-26T13:42:33+08:00 ] 222.186.58.81 /phpmyadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+ERR: 无法加载模块:Phpmyadmin
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /translate.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Translate
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /ibm/console/logon.jsp?action=OK
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载模块:Ibm
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /Portal/Portal.mwsl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+ERR: 无法加载模块:Portal
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /CSS/Miniweb.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+ERR: 无法加载模块:CSS
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /docs/cplugError.html/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+ERR: 无法加载模块:Docs
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /console/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+ERR: 无法加载模块:Console
+
+[ 2016-10-26T14:45:51+08:00 ] 112.90.220.114 /console/portal/0/Welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Console
+
+[ 2016-10-26T15:20:46+08:00 ] 80.82.78.38 http://www.baidu.com/cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+ERR: 无法加载模块:Cache
+
+[ 2016-10-26T17:28:12+08:00 ] 104.223.133.49 /phpmyadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+ERR: 无法加载模块:Phpmyadmin
+
+[ 2016-10-26T17:42:34+08:00 ] 223.104.1.20 /Public/upload2016-02-27/56d1a8896d3d3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-26T17:49:34+08:00 ] 223.104.1.20 /Public/upload2016-02-27/56d1a8896d3d3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-26T19:03:15+08:00 ] 203.208.60.181 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-10-26T19:58:12+08:00 ] 163.172.134.70 http://www.baidu.com/cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+ERR: 无法加载模块:Cache
+
+[ 2016-10-26T20:59:56+08:00 ] 37.187.114.171 /OA_HTML/OA.jsp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+ERR: 无法加载模块:OA_HTML
+
+[ 2016-10-26T21:07:48+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T21:07:48+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T21:07:49+08:00 ] 101.226.35.225 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T21:31:38+08:00 ] 14.215.176.21 http://odds.500.com/fenxi1/json/ouzhi.php?_=1477476625514&fid=254128&cid=235&r=1&time=2009-10-02%2002%3A50%3A06&type=europe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Fenxi1
+
+[ 2016-10-26T23:00:39+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:00:42+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:00:44+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:01:12+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:01:13+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:01:15+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:01:17+08:00 ] 117.136.41.110 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:06:31+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:09:49+08:00 ] 223.74.85.53 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T23:30:56+08:00 ] 120.239.147.208 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Favicon
+

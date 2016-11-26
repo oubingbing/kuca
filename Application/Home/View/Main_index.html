@@ -1,0 +1,159 @@
+<include file="Public/headerFooter"/>
+<div class="mui-content">
+	<div id="slider" class="mui-slider">
+		<div id="sliderSegmentedControl" class="mui-slider-indicator mui-segmented-control mui-segmented-control-inverted">
+			<a class="mui-control-item" href="#item1mobile">
+				签到
+			</a>
+			<a class="mui-control-item" href="#item2mobile">
+				我的签到
+			</a>
+		</div>
+		<div id="sliderProgressBar" class="mui-slider-progress-bar mui-col-xs-6"></div>
+		<div class="mui-slider-group">
+			<div id="item1mobile" class="mui-slider-item mui-control-content mui-active">
+			<p class='mui-ellipsis' style="text-align:center;margin-top:10px">偶买噶，被你看见~_~</p>
+				<div id="scroll1" class="mui-scroll-wrapper">
+					<div class="mui-scroll">
+						<ul class="mui-table-view mui-grid-view mui-grid-9">
+							<!--签到-->
+							<li class="mui-table-view-cell mui-media mui-col-xs-6 mui-col-sm-6 qiandaodiv" id="do_qiandao">
+								<a>
+									<img src="__PUBLIC__/img/loading.gif" id="load" style="z-index:10;width:70px;position: fixed;display:none">
+									<span class="spancolor mui-icon iconfont icon-qiandao" style="font-size:70px;z-index:1" id="none_qiandao"></span>
+									<div class="mui-media-body" id="word">签到</div>
+								</a>
+							</li>
+							<!--签到情况-->
+							<li class="mui-table-view-cell mui-media mui-col-xs-6 mui-col-sm-6" style="border-left:solid 1px gray;">
+								<span>今天的兼职</span>
+								<a>
+									<foreach name="live" item="live_list">
+									<p style="font-size:10px;color:rgba(96,56,17,1)">
+										<u>
+											{$live_list.name} {$live_list.week|weekNum=###} {$live_list.workpoint|timePoint=###}
+										</u>
+									</p>
+									</foreach>
+								</a>
+							</li>
+						</ul>
+						<!--排班表-->
+						<ul class="mui-table-view">
+						<foreach name="list" item="data">
+							<li class="mui-table-view-cell mui-media">
+								<a>
+									<img class="mui-media-object mui-pull-left" src="__PUBLIC__/img/dog.jpg">
+									<div class="mui-media-body">
+										{$data.name}
+										<p class='mui-ellipsis'>{$data.week|weekNum=###}　{$data.workpoint|timePoint=###}</p>
+									</div>
+								</a>
+							</li>
+							</foreach>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="item2mobile" class="mui-slider-item mui-control-content">
+				<p class='mui-ellipsis' style="text-align:center;margin-top:10px">偶买噶，这样都被你看见>_<</p>
+				<div id="scroll2" class="mui-scroll-wrapper">
+					<div class="mui-scroll">
+						<ul class="mui-table-view mui-grid-view mui-grid-9">
+							<!--签到记录-->
+							<li class="mui-table-view-cell mui-media mui-col-xs-6 mui-col-sm-6 qiandaodiv">
+								<a>
+									<span class="spancolor mui-icon iconfont" id="sumMoney">{$sumMoney}</span>
+									<div class="mui-media-body">当月兼职费</div>
+								</a>
+							</li>
+							<!--签到总情况-->
+							<li class="mui-table-view-cell mui-media mui-col-xs-6 mui-col-sm-6" style="border-left:solid 1px gray;">
+								<a>
+									<span class="spancolor mui-icon iconfont" id="allMoney">{$allMoney}</span>
+									<div class="mui-media-body">总兼职费</div>
+								</a>
+							</li>
+						</ul>
+						<!--签到详情-->
+						<ul class="mui-table-view" id="list">
+							<foreach name="qd_list" item="data">
+								<li class="mui-table-view-cell mui-media">
+									<a>
+										<div class="mui-media-body">
+											<p class='mui-ellipsis'>
+												{$data.username}　时长:{$data.time}　工资:{$data.salary}　时间:{$data.startime|date="Y-m-d H:i",###}　{$data.point|timePoint=###}
+											</p>
+										</div>
+									</a>
+								</li>
+							</foreach>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="__PUBLIC__/js/count.js"></script>
+<script>
+	(function($) {
+		$('.mui-scroll-wrapper').scroll({
+			indicators: true 
+		});
+		mui('#nav').on('tap', 'a', function() {
+			switch (this.getAttribute('name')) {
+				case 'one':dump_page("{:u('Main/index')}");break;
+				case 'two':dump_page("{:u('Buy/index')}");break;
+				case 'three':dump_page("{:u('Admin/finance')}");break;
+				case 'four':dump_page("{:u('Admin/index')}");break;
+				case 'five':dump_page("{:u('Main/personal')}");break;
+			}
+		});
+		function dump_page(url){
+			window.location.href=url;
+		}
+	})(mui);
+	$(document).ready(function(){
+		//设置页面的高
+		$('.mui-slider-group').height($(document).height()-80);
+		//签到操作
+		$('#do_qiandao').on('click',function(){
+			var result = confirm('你确定要签到吗？');
+			if(!result) {
+				return 0;
+			}
+			$('#load').show();
+			var none_qiandao=$('#none_qiandao');
+			var successTip=$('#word');
+			$.ajax({
+				url: "{:U('Main/do_qiandao')}",
+				dataType: "json",
+				async: true,
+				data: {},
+				type: "POST",
+				success: function(ajaxdata) {
+					$('#load').hide();
+					mui.toast(ajaxdata.info);
+					if(ajaxdata.status==1){
+						none_qiandao.removeClass('icon-qiandao');
+						none_qiandao.addClass('icon-qiandao1');
+						none_qiandao.css('color','#00CD00');
+						successTip.css('color','#00EE00');
+						successTip.text('签到成功');
+						mui.toast(ajaxdata.info.tip);
+						$('#list').prepend('<li class="mui-table-view-cell mui-media"><a><div class="mui-media-body"><p >'+ajaxdata.info.username+'　时长:'+ajaxdata.info.time+'　工资:'+ajaxdata.info.salary+'　</p></div></a></li>');
+						$('#sumMoney').html(accAdd($('#sumMoney').html(),ajaxdata.info.salary));
+						$('#allMoney').html(accAdd($('#allMoney').html(),ajaxdata.info.salary));
+					}
+			    },
+			    error: function() {
+			    	$('#load').hide();
+			        alert('网络出错');
+			    }
+			});
+		});
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+[ 2016-11-24T00:27:15+08:00 ] 117.136.79.200 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T00:59:52+08:00 ] 101.226.35.225 /home/CHANGELOG.txt
+ERR: 无法加载控制器:CHANGELOG.txt
+
+[ 2016-11-24T00:59:52+08:00 ] 101.226.35.225 /home/install.php
+ERR: 无法加载控制器:Install.php
+
+[ 2016-11-24T01:00:16+08:00 ] 101.226.35.225 /home/source/script_menu.js
+ERR: 无法加载控制器:Source
+
+[ 2016-11-24T01:00:16+08:00 ] 101.226.35.225 /home/source/script_menu.js
+ERR: 无法加载控制器:Source
+
+[ 2016-11-24T11:02:00+08:00 ] 183.61.51.226 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T11:50:53+08:00 ] 14.152.68.62 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T11:50:54+08:00 ] 223.74.85.104 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T16:37:21+08:00 ] 117.136.33.167 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T18:31:48+08:00 ] 14.17.44.214 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T18:49:40+08:00 ] 14.17.44.214 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T21:16:02+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T21:27:45+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T22:28:15+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T22:28:49+08:00 ] 223.74.85.70 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T22:38:57+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T22:43:21+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T22:44:03+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
+[ 2016-11-24T23:06:28+08:00 ] 223.74.85.108 /index.php/home/main/index.html
+info: 测试日志信息，这是警告级别，并且实时写入
